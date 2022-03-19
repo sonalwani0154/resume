@@ -1,18 +1,12 @@
-*
-{
-    margin: o;
-    padding: 0;
-    box-sizing: border-box;
 
-}
-.body{
-    background: lightblue;
+
+body{
+    background: rgb(240, 242, 243);
     display:flex;
     justify-content: center;
-    align-items: center;
-    min-height: 100px;
+    align-items: center;   
 }
-.container{
+/* .container{
     position: relative;
     width: 300%;
     max-width: 1000px;
@@ -22,22 +16,21 @@
     align-items: center;
     margin-left: 250px;
     
-}
-.fixing{
-    background-color: rgb(9, 150, 150);
+} */
+.profile-name{
+    background: rgb(223, 14, 14);
     margin-bottom: 20px;
     padding-top: 50px;
+    
 }
 .abc{
-    padding-bottom: 700px;
+    
     padding-left: 60px;
     
 }
 .adjust-size{
-position: absolute;
-
  padding-left: 30px;
- padding-top: 100px;
+ padding-top: 30px;
 }
 .space{
     padding-left: 80px;
